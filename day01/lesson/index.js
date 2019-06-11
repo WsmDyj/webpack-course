@@ -17,5 +17,3 @@ let Content = require('./content.js')
 new Header()
 new Sidebar()
 new Content()
-
-
